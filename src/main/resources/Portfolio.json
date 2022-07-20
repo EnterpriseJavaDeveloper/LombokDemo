@@ -1,0 +1,1 @@
+{"portfolioItems":[{"stock":{"symbol":"AAPL","price":140.0,"date":[2022,7,15,11,10,47,645992400]},"numberOfShares":10,"purchaseDate":[2022,2,2,8,0],"purchasePrice":130.2},{"stock":{"symbol":"MSFT","price":250.0,"date":[2022,7,15,11,10,47,647992200]},"numberOfShares":10,"purchaseDate":[2022,2,8,8,0],"purchasePrice":265.31}],"accountType":"IRA","brokerage":"Fidelity"}
